@@ -1,3 +1,4 @@
+<img width="1802" height="651" alt="image" src="https://github.com/user-attachments/assets/331bd761-e812-44b7-b5c6-870c3428d5be" />
 # Network Intrusion Detection System (NIDS)
 
 A real-time network intrusion detection system built with Python and Scapy.
